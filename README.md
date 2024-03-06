@@ -5,7 +5,7 @@
 <h1 align="center"><b>Hi , I'm Miguel Angel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+currently+a+Digital+House+student" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=200&color=0099FF&background=0099FF00&center=true&vCenter=true&random=false&width=435&lines=I+am+currently+a;Digital+House+student" alt="Typing SVG" /></a>
 </p>
 
 ---
