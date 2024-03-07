@@ -12,25 +12,27 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<br>
-
-<p align="center">
-
--   **Languages**:
-      <!-- 
-      ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-      ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-      ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
-
-<br>   
-    
-- **Front-End Development**:
-
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23333)
+![React](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23333)
+<br><br>
 
-<br>
+![Static Badge](https://img.shields.io/badge/node.Js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/express-%23000?style=for-the-badge&logo=express&logoColor=%23fff)
+<br><br>
+
+![Static Badge](https://img.shields.io/badge/DB-%23000?style=for-the-badge&logo=amazondocumentdb&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23FFF)
+<br><br>
+
+![Static Badge](https://img.shields.io/badge/ejs-%23B4CA65?style=for-the-badge&logo=ejs&logoColor=%23333)
+![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=%23fff&cacheSeconds=https%3A%2F%2F&cacheSeconds=https%3A%2F%2Fgetbem.com%2F%2F)
+![Static Badge](https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fgithub.com%2F)
+<br><br>
+
+![Bem](https://img.shields.io/badge/bem-%23000?style=for-the-badge&logo=bem&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fgetbem.com%2F)
 
 ---
 
@@ -43,7 +45,7 @@
 <div align="center">
 
 <a href="https://github.com/Miguel-A-VN/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-A-VN&include_all_commits=true&count_private=true&show_icons=true&line_height=29&title_color=7A7ADB&icon_color=0099ff&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-A-VN&include_all_commits=&count_private=true&show_icons=true&line_height=29&title_color=7A7ADB&icon_color=0099ff&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguel-A-VN&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Miguel-A-VN"/>
 </a>
 </div>
