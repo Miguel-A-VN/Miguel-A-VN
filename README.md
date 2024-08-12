@@ -13,7 +13,7 @@
 
 ---
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b> About me</b>
+## <b> About me</b>
 
 <div aling="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width=200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
@@ -122,6 +122,8 @@ Last Edited on: 03/06/2024
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Mleyton&icon=0&color=0)](https://visitcount.itsvg.in)}
 
 <!--
 **Miguel-A-VN/Miguel-A-VN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
