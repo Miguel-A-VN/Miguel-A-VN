@@ -34,12 +34,17 @@
 	<tr>
 		<td width="50%">
 				<h3 align="center">Mercado Liebre</h3>
+				</br>
 				<div align="center">
 					<a href="https://ml-miguel-angel-vargas-navarro.onrender.com" target="_blank">
  						<img src="./assets/img/MercadoLiebre.png" width="400" alt="Mercado Liebre">
   					</a>
-					<p>
-						
+					  </br>
+					  </br>
+<p>Esta es una copia del famoso E-comerce Mercado Libre, es una copia estatica creada paara la academia <a href="" target="_blank">Digital House</a>
+</br>
+</br>
+
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/node.Js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)
