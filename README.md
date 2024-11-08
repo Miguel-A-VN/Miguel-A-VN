@@ -1,17 +1,15 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
+
 <div align="center">
 <h1 align="center"><b>Hi , I'm Miguel Angel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <div align="center">
-<p align="center">
+<!-- <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+stack+web+programmer" alt="Typing SVG" /></a>
-</p>
+</p> -->
 </div>
-
----
 
 ## <b> About me</b>
 
@@ -38,16 +36,19 @@
 				<h3 align="center">Mercado Liebre</h3>
 				<div align="center">
 					<a href="https://ml-miguel-angel-vargas-navarro.onrender.com" target="_blank">
- 						<img src="" width="400" alt="Mercado Liebre">
+ 						<img src="./assets/img/MercadoLiebre.png" width="400" alt="Mercado Liebre">
   					</a>
 					<p>
 						
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/node.Js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/express-%23000?style=for-the-badge&logo=express&logoColor=%23fff)
 					</p>
 				</div>
 		</td>
 	</tr>
+	
 <table>
  
 ---
@@ -96,31 +97,10 @@
 <br>
 <br>
 
----
-
 <br>
 
-Credit: [Miguel Ángel Vargas Navarro](https://github.com/Miguel-A-VN)
-
-<br>
+[![](https://visitcount.itsvg.in/api?id=/Miguel-A-VN&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=/Miguel-A-VN&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--
-**Miguel-A-VN/Miguel-A-VN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
