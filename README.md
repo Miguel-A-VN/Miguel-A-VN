@@ -30,39 +30,26 @@
 
 ---
 
-<!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b> Projects</b>
+## **My Projects**
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Mercado Liebre</h3>
-<div align="center">
-
-  <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-  <img src="https://i.imgur.com/Jji0CIE.jp" width="400" alt="Merca Liebre">
-  </a>
-
-  <p>
-
-  <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-
-  <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-  <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-  </a>
-
-  </p>
-
-  <p>
-  
-  </p>
-
-</div>
-                                                                                      
-</td>
+	<tr>
+		<td width="50%">
+				<h3 align="center">Mercado Liebre</h3>
+				<div align="center">
+					<a href="https://ml-miguel-angel-vargas-navarro.onrender.com" target="_blank">
+ 						<img src="" width="400" alt="Mercado Liebre">
+  					</a>
+					<p>
+						
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+					</p>
+				</div>
+		</td>
+	</tr>
 <table>
- -->
+ 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -114,8 +101,6 @@
 <br>
 
 Credit: [Miguel Ángel Vargas Navarro](https://github.com/Miguel-A-VN)
-
-Last Edited on: 03/06/2024
 
 <br>
 
