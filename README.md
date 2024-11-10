@@ -41,7 +41,7 @@
 </a>
 </br>
 </br>
-<p>Esta es una copia del famoso E-comerce Mercado Libre, la misma es estatica y fue crada para la acadeia Argentina <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
+<p>This is a copy of the famous e-commerce platform Mercado Libre. It is static and was created for the Argentine academy. <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
 </br>
 </p>
 </br>
