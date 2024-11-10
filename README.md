@@ -43,8 +43,10 @@
 </br>
 <p>Esta es una copia del famoso E-comerce Mercado Libre, la misma es estatica y fue crada para la acadeia Argentina <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
 </br>
+</p>
+</br>
 <a href="https://github.com/Miguel-A-VN/Mercado_Liebre" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-333333?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </br>
 </br>	
@@ -52,7 +54,6 @@
 <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
 <img src="https://img.shields.io/badge/node.Js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF" alt="node">
 <img src="https://img.shields.io/badge/express-%23000?style=for-the-badge&logo=express&logoColor=%23fff" alt="express">
-</p>
 </div>
 </td>
 </tr>	
