@@ -41,7 +41,8 @@
   					</a>
 					  </br>
 					  </br>
-<p>Esta es una copia del famoso E-comerce Mercado Libre, es una copia estatica creada paara la academia <a href="" target="_blank">Digital House</a>
+<p>Esta es una copia del famoso E-comerce Mercado Libre, es una copia estatica creada paara la academia <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House</a>
+</p>
 </br>
 </br>
 
