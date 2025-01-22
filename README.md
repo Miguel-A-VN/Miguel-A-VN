@@ -45,7 +45,7 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 </p>
 </br>
 <a href="https://github.com/Miguel-A-VN/Mercado_Liebre" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-333333?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/REPOSITORIO-333333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </br>
 </br>	
