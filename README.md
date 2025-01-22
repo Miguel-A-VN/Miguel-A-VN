@@ -11,24 +11,23 @@
 </p> -->
 </div>
 
-## <b> About me</b>
+## <b> Sobre mi</b>
 
 <div aling="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width=200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
   <p aling="center">
-    🔵I enjoy challenges and continuous learning.<br>
-    🔵I am very organized and structured.<br>
-    🔵I can easily adapt to a team that has started or is starting a project.<br>
-    🔵I am capable of learning new tools and methodologies in a short time.<br>
-    🔵I like to create and innovate.<br>
-    🔵I want to learn new technologies and specialize in the ones I already know.<br>
+    Soy analista y desarrollador de software. Mi interés por el desarrollo de aplicaciones y páginas web comenzó hace aproximadamente cinco años. Comencé de forma autodidacta mientras estaba en el colegio, aprendiendo HTML y CSS.<br>
+
+En agosto de 2023, decidí formalizar mis conocimientos y realicé un curso en la academia argentina Digital House, el cual finalicé en abril de 2024, obteniendo el título de Programador Web Full-Stack. Durante este curso, aprendí a manejar JavaScript y exploré tecnologías como Git, GitHub, MySQL, Node.js, Express y React. También adquirí conocimientos sobre frameworks y cómo utilizarlos.<br>
+
+Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional de Aprendizaje (SENA), entidad colombiana, donde obtendré el título de Tecnólogo en Análisis y Desarrollo de Software en octubre de 2026. Aunque tengo un enfoque más orientado al front-end, también poseo conocimientos sobre back-end.<br>
   <p>
 <div>
 
 ---
 
-## **My Projects**
+## **Mis proyectos**
 
 <table>
 <tr>
