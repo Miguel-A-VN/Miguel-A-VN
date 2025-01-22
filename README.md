@@ -40,7 +40,7 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 </a>
 </br>
 </br>
-<p>Este proyecto es una réplica estática de la reconocida plataforma de comercio electrónico Mercado Libre. Fue desarrollado como parte de un curso en la academia argentina<a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
+<p>Este proyecto es una réplica estática de la reconocida plataforma de comercio electrónico Mercado Libre. Fue desarrollado como parte de un curso en la academia argentina <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
 </br>
 </p>
 </br>
