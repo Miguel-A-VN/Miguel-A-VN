@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1 align="center"><b>Hi , I'm Miguel Angel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , yo soy Miguel Angel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <div align="center">
 <!-- <p align="center">
@@ -40,7 +40,7 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 </a>
 </br>
 </br>
-<p>This is a copy of the famous e-commerce platform Mercado Libre. It is static and was created for the Argentine academy. <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
+<p>Este proyecto es una réplica estática de la reconocida plataforma de comercio electrónico Mercado Libre. Fue desarrollado como parte de un curso en la academia argentina<a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
 </br>
 </p>
 </br>
