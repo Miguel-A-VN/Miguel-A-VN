@@ -49,10 +49,9 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 </a>
 </br>
 </br>	
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-<img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-<img src="https://img.shields.io/badge/node.Js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF" alt="node">
-<img src="https://img.shields.io/badge/express-%23000?style=for-the-badge&logo=express&logoColor=%23fff" alt="express">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=50px alt="html5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width=50px alt="css">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width=90px alt="node">
 </div>
 </td>
 </tr>	
