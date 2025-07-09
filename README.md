@@ -59,8 +59,9 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 </tr>	
 <table>
  
----
+<!--
 
+---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -85,7 +86,7 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 
 ![Bem](https://img.shields.io/badge/bem-%23000?style=for-the-badge&logo=bem&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fgetbem.com%2F)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.figma.com%2F)
-
+-->
 ---
 
 <br>
