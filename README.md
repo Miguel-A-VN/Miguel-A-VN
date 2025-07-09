@@ -32,6 +32,35 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 <table>
 <tr>
 <td width="50%" max-width="200px">
+<h3 align="center">SOUNDBOX</h3>
+</br>
+<div align="center">
+<a href="https://soundbox-qyz4.onrender.com/" target="_blank">
+<img src="./assets/img/SOUNDBOX.png" width="400" alt="Mercado Liebre">
+</a>
+</br>
+</br>
+<p>SOUNDBOX es un sitio web de comercio electrónico que permite a los usuarios interactuar de forma intuitiva con la página.
+Desarrollado como parte de un curso en la academia argentina <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House</a>.
+</p>
+
+<h3 align="center">10/31/2023 - 04/22/2024 - FINALIZADO</h3>
+
+</p>
+</br>
+<a href="https://github.com/Miguel-A-VN/Mercado_Liebre" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-333333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</br>
+</br>	
+ 
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%23663399.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/node.Js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)
+
+</div>
+</td>
+<td width="50%" max-width="200px">
 <h3 align="center">Mercado Liebre</h3>
 </br>
 <div align="center">
@@ -43,6 +72,9 @@ Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional 
 <p>Este proyecto es una réplica estática de la reconocida plataforma de comercio electrónico Mercado Libre. Fue desarrollado como parte de un curso en la academia argentina <a href="https://www.digitalhouse.com/co/productos/programacion/programacion-web-full-stack" target="_blank">Digital House.</a>
 </br>
 </p>
+
+<h3 align="center">10/10/2023 - 10/26/2023 - FINALIZADO</h3>
+
 </br>
 <a href="https://github.com/Miguel-A-VN/Mercado_Liebre" target="_blank">
 <img src="https://img.shields.io/badge/REPOSITORIO-333333?style=for-the-badge&logo=github&logoColor=white"/>
