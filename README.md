@@ -48,7 +48,7 @@ Desarrollado como parte de un curso en la academia argentina <a href="https://ww
 
 </p>
 </br>
-<a href="https://github.com/Miguel-A-VN/Mercado_Liebre" target="_blank">
+<a href="https://github.com/PabloB91/Grupo_11_SoundBox" target="_blank">
 <img src="https://img.shields.io/badge/REPOSITORIO-333333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </br>
@@ -57,6 +57,7 @@ Desarrollado como parte de un curso en la academia argentina <a href="https://ww
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%23663399.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/node.Js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/express-%23000?style=for-the-badge&logo=express&logoColor=%23fff)
 
 </div>
 </td>
