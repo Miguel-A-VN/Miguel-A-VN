@@ -124,6 +124,7 @@ Desarrollado como parte de un curso en la academia argentina <a href="https://ww
 
 <br>
 
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
@@ -138,6 +139,7 @@ Desarrollado como parte de un curso en la academia argentina <a href="https://ww
 
 <br>
 <br>
+-->
 
 <br>
 
