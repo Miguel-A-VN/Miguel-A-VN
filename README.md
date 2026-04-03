@@ -24,7 +24,8 @@ En agosto de 2023, decidí formalizar mis conocimientos y realicé un curso en l
 Actualmente, estudio Análisis y Desarrollo de Software en el Servicio Nacional de Aprendizaje (SENA), entidad colombiana, donde obtendré el título de Tecnólogo en Análisis y Desarrollo de Software en octubre de 2026. Aunque tengo un enfoque más orientado al front-end, también poseo conocimientos sobre back-end.<br>
   <p>
 <div>
-
+ 
+<!--
 ---
 
 ## **Mis proyectos**
@@ -90,7 +91,8 @@ Desarrollado como parte de un curso en la academia argentina <a href="https://ww
 </div>
 </td>
 </tr>	
-<table>
+<table>](url -->
+
  
 <!--
 
@@ -119,8 +121,8 @@ Desarrollado como parte de un curso en la academia argentina <a href="https://ww
 
 ![Bem](https://img.shields.io/badge/bem-%23000?style=for-the-badge&logo=bem&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fgetbem.com%2F)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.figma.com%2F)
--->
 ---
+-->
 
 <br>
 
@@ -140,8 +142,6 @@ Desarrollado como parte de un curso en la academia argentina <a href="https://ww
 <br>
 <br>
 -->
-
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=/Miguel-A-VN&icon=0&color=0)](https://visitcount.itsvg.in)
 
